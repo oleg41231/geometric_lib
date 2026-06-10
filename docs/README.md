@@ -1,10 +1,5 @@
-# Math formulas
-## Area
-- Circle: S = πR²
-- Rectangle: S = ab
-- Square: S = a²
+## Update
 
-## Perimeter
-- Circle: P = 2πR
-- Rectangle: P = 2a + 2b
-- Square: P = 4a
+Внесены изменения в документацию.
+Добавлено описание проекта geometric_lib.
+Практическая работа по GitHub.
